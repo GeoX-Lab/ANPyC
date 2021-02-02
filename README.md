@@ -12,7 +12,7 @@ linux
 
 ## Run
 1. [Download MNIST](http://yann.lecun.com/exdb/mnist/)
-2. run ANPyC without neural pruning, execute 'python ANPyC_wo_NP.py'
+2. run ANPyC without neural pruning, execute `python ANPyC_wo_NP.py`
 3. run ANPyC without neural pruning, execute 'python ANPyC_wi_NP.py'
 4. run LwF, excute 'python LwF.py'
 5. run multi-task learning, excute 'python joint.py'
@@ -20,5 +20,5 @@ linux
 7. cal the distribution of param-importance distribution, excute 'python cal_importance_distribution.py' 
 
 
-This source code is released under a Attribution-NonCommercial 4.0 International license.
+###### This source code is released under a Attribution-NonCommercial 4.0 International license.
 
