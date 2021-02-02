@@ -6,9 +6,9 @@ Adversarial Neural Pruning and Synaptic Consolidation]
 ## A tensorflow implementation of ANPyC on Permuted_MNIST.
 
 ## Requirement
--python3.6
--tensorflow 1.0 or later
--linux
+python3.6
+tensorflow 1.0 or later
+linux
 
 ## Run
 1. [Download MNIST](http://yann.lecun.com/exdb/mnist/)
