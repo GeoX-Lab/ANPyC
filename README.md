@@ -1,7 +1,7 @@
 # ANPyC
 Source code for the paper:
 [Overcoming Long-term Catastrophic Forgetting through
-Adversarial Neural Pruning and Synaptic Consolidation]
+Adversarial Neural Pruning and Synaptic Consolidation]()
 
 ## A tensorflow implementation of ANPyC on Permuted_MNIST.
 
@@ -31,6 +31,6 @@ linux
 
 
 
-
-###### This source code is released under a Attribution-NonCommercial 4.0 International license.
+d
+This source code is released under a Attribution-NonCommercial 4.0 International license, find more about it [here]()
 
