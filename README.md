@@ -32,5 +32,5 @@ linux
 
 
 d
-This source code is released under a Attribution-NonCommercial 4.0 International license, find more about it [here]()
+This source code is released under a Attribution-NonCommercial 4.0 International license, find more about it [here](https://github.com/GeoX-Lab/ANPyC/blob/main/LICENSE)
 
