@@ -1,5 +1,5 @@
 # ANPyC
--Source code for the paper:
+Source code for the paper:
 [Overcoming Long-term Catastrophic Forgetting through
 Adversarial Neural Pruning and Synaptic Consolidation]
 
