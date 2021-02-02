@@ -19,7 +19,7 @@ linux
 
 2. run ANPyC without neural pruning, execute `python ANPyC_wo_NP.py`
 
-3. run ANPyC without neural pruning, execute `python ANPyC_wi_NP.py`
+3. run ANPyC with neural pruning, execute `python ANPyC_wi_NP.py`
 
 4. run LwF, excute `python LwF.py`
 
