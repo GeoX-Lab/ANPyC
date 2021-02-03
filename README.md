@@ -1,26 +1,19 @@
 # ANPyC
-This repo includes the source code for the paper:
-
-Overcoming Long-term Catastrophic Forgetting through Adversarial Neural Pruning and Synaptic Consolidation
-
-
-IEEE Transactions on Neural Networks and Learning Systems, 2021, 10.1109/TNNLS.2021.3056201
+This repo includes the source code for the paper:  
+Overcoming Long-term Catastrophic Forgetting through Adversarial Neural Pruning and Synaptic Consolidation  
+IEEE Transactions on Neural Networks and Learning Systems, 2021, 10.1109/TNNLS.2021.3056201  
 
 ## Abstract:
 Artificial neural networks face the well-known problem of catastrophic forgetting. What's worse, the degradation of previously learned skills becomes more severe as the task sequence increases, known as the long-term catastrophic forgetting. It is due to two facts: first, as the model learns more tasks, the intersection of the low-error parameter subspace satisfying for these tasks becomes smaller or even does not exist; second, when the model learns a new task, the cumulative error keeps increasing as the model tries to protect the parameter configuration of previous tasks from interference. Inspired by the memory consolidation mechanism in mammalian brains with synaptic plasticity, we propose a confrontation mechanism in which Adversarial Neural Pruning and synaptic Consolidation (ANPyC) is used to overcome the long-term catastrophic forgetting issue. The neural pruning acts as long-term depression to prune task-irrelevant parameters, while the novel synaptic consolidation acts as long-term potentiation to strengthen task-relevant parameters. During the training, this confrontation achieves a balance in that only crucial parameters remain, and non-significant parameters are freed to learn subsequent tasks. ANPyC avoids forgetting important information and makes the model efficient to learn a large number of tasks. Specifically, the neural pruning iteratively relaxes the current task's parameter conditions to expand the common parameter subspace of the task; the synaptic consolidation strategy, which consists of a structure-aware parameter-importance measurement and an element-wise parameter updating strategy, decreases the cumulative error when learning new tasks.
 
 
-## A tensorflow implementation of ANPyC.
+## Requirement
 
-### Requirement
+* python3.6  
+* tensorflow 1.0 or later  
+* linux  
 
-python3.6
-
-tensorflow 1.0 or later
-
-linux
-
-### Run
+## Run
 
 1. [Download MNIST](http://yann.lecun.com/exdb/mnist/)
 
