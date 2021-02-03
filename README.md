@@ -36,7 +36,7 @@ This source code is released under a Attribution-NonCommercial 4.0 International
 # ANPyC
 If our repo is useful to you, please cite our published paper as follow:
 
-'''Bibtex
+```Bibtex
 @article{peng2021ANPyc,
     title={Overcoming Long-term Catastrophic Forgetting through Adversarial Neural Pruning and Synaptic Consolidation},
     author={Peng, Jian and Tang, Bo and Jiang, Hao and Li, Zhuo and Lei, Yinjie and Lin, Tao and Li, Haifeng},
@@ -46,7 +46,7 @@ If our repo is useful to you, please cite our published paper as follow:
     type = {Journal Article}
 }
 
-'''Endnote
+```Endnote
 %0 Journal Article
 %A Peng, Jian
 %A Tang, Bo
