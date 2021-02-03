@@ -33,7 +33,7 @@ linux
 
 This source code is released under a Attribution-NonCommercial 4.0 International license, find more about it [here](https://github.com/GeoX-Lab/ANPyC/blob/main/LICENSE)
 
-# ANPyC
+# The source code
 If our repo is useful to you, please cite our published paper as follow:
 
 ```Bibtex
@@ -46,7 +46,7 @@ If our repo is useful to you, please cite our published paper as follow:
     type = {Journal Article}
 }
 
-```Endnote
+Endnote
 %0 Journal Article
 %A Peng, Jian
 %A Tang, Bo
